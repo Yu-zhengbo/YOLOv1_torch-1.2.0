@@ -12,3 +12,5 @@ just to use"wget https:......."
 
 And I just create tow new projects: labels and pre_labels,look like this. The pre_labels which I will use it in future to make a evaluation.
 ![2021-05-02 11-14-10屏幕截图](https://user-images.githubusercontent.com/72426381/116800896-9ff33800-ab37-11eb-99b8-f2ba75d57015.png)
+
+Next Work is  make a evaluation,like recall,accuracy and so on. 
